@@ -17,7 +17,7 @@
 
   //Rotate Into X With Menu Items
   &.close {
-    transform: rotate(180deg);
+    transform: rotate(180deg) ;
 
     .btn-line {
       // Line 1 -Rotate
@@ -47,7 +47,7 @@
   position: fixed;
   top: 0;
   width: 100%;
-  opacity: 0.9;
+  opacity: 0.95;
   visibility: hidden;
 
   .show {

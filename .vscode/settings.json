@@ -1,5 +1,10 @@
 {
   "cSpell.words": [
     "johana"
+  ],
+  "cSpell.ignoreWords": [
+    "bioimage",
+    "johndoe",
+    "mixins"
   ]
 }
