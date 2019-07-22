@@ -1,7 +1,6 @@
 {
   "name": "modern_portfolio",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "homepage": "https://jmoralesg.github.io/modern_portfolio",
   "scripts": {
@@ -13,5 +12,14 @@
   "dependencies": {
     "gh-pages": "^2.0.1",
     "node-sass": "^4.12.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmoralesg/modern_portfolio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jmoralesg/modern_portfolio/issues"
+  },
+  "description": ""
 }
